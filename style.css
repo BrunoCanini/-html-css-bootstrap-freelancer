@@ -37,7 +37,7 @@
 /* SEZIONE D */
 
 .aboutH{
-    min-height: 400px;
+    min-height: 300px;
 }
 
 .aboutH2{
@@ -45,6 +45,5 @@
 }
 
 .bc_border{
-    border: 1px solid black;
-    min-height: 60px;
+    border: 1px solid white;
 }
