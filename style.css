@@ -1,0 +1,27 @@
+.head{
+    min-height: 100px;
+    background-color: blue;
+}
+
+.jumbo{
+    min-height: 600px;
+    background-color: green;
+}
+
+.colorgrey{
+    background-color: grey;
+}
+
+/* SEZIONE D */
+
+.elementD1{
+    min-height: 120px;
+    background-color: brown;
+}
+
+.elementD2{
+    min-height: 160px;
+    border: 1px solid white;
+}
+
+/* SEZIONE E */
