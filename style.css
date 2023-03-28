@@ -1,18 +1,28 @@
-.head{
-    min-height: 100px;
+/* SEZIONE A */
+
+.colorblue{
     background-color: blue;
 }
 
+/* SEZIONE B */
+
 .jumbo{
-    min-height: 600px;
+    min-height: 500px;
+}
+
+.colorgreen{
     background-color: green;
+}
+
+.colorwhite{
+    background-color: white;
 }
 
 .colorgrey{
     background-color: grey;
 }
 
-/* SEZIONE D */
+/* SEZIONE C */
 
 .elementD1{
     min-height: 120px;
@@ -24,4 +34,12 @@
     border: 1px solid white;
 }
 
-/* SEZIONE E */
+/* SEZIONE D */
+
+.aboutH{
+    min-height: 400px;
+}
+
+.aboutH2{
+    min-height: 250px;
+}
