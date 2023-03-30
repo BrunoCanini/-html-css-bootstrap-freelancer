@@ -28,6 +28,10 @@
     border: 1px solid white;
 }
 
+*{
+    scroll-padding-top: 50px;
+}
+
 /* SEZIONE B */
 
 .jumbotron img{
