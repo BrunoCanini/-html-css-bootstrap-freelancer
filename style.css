@@ -31,8 +31,8 @@
 /* SEZIONE B */
 
 .jumbotron img{
-    white-space: 260px;
-    height: 230px;
+    max-width: 260px;
+    max-width: 230px;
 }
 
 /* SECTION E */
